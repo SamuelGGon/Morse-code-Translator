@@ -1,0 +1,53 @@
+
+
+Version:	3.50
+CmdLine:	I:\Meus scrips\JAVA\metodo\morse\Morse translate.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	I:\Meus scrips\JAVA\metodo\morse\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;I:\Programação\Python\Scripts\;I:\Programação\Python\;C:\Users\samue\AppData\Local\Microsoft\WindowsApps;I:\Programação\Microsoft VS Code\bin;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Users\samue\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\samue\AppData\Local\Programs\Python\Python313\;C:\Users\samue\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\samue\AppData\Local\Programs\Python\Python312\;I:\Programação\Python\Scripts\;I:\Programação\Python\;C:\Users\samue\AppData\Local\Microsoft\WindowsApps;I:\Programação\Microsoft VS Code\bin;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Users\samue\AppData\Local\Programs\Microsoft VS Code\bin;C:\ffmpeg\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin;;C:\Program Files\Java\jdk-23\bin;I:\Meus scrips\JAVA;;C:\Program Files\Java\jdk-23\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;I:\Programação\Python\Scripts\;I:\Programação\Python\;C:\Users\samue\AppData\Local\Microsoft\WindowsApps;I:\Programação\Microsoft VS Code\bin;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Users\samue\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\samue\AppData\Local\Programs\Python\Python313\;C:\Users\samue\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\samue\AppData\Local\Programs\Python\Python312\;I:\Programação\Python\Scripts\;I:\Programação\Python\;C:\Users\samue\AppData\Local\Microsoft\WindowsApps;I:\Programação\Microsoft VS Code\bin;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Users\samue\AppData\Local\Programs\Microsoft VS Code\bin;C:\ffmpeg\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin;;C:\Program Files\Java\jdk-23\bin;I:\Meus scrips\JAVA;;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	I:\Programação\Python\Scripts\bin\javaw.exe (not found)
+Check launcher:	I:\Programação\Python\bin\javaw.exe (not found)
+Check launcher:	C:\Users\samue\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	I:\Programação\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\samue\AppData\Local\Programs\Python\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\samue\AppData\Local\Programs\Python\Python313\bin\javaw.exe (not found)
+Check launcher:	C:\Users\samue\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\samue\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	I:\Programação\Python\Scripts\bin\javaw.exe (not found)
+Check launcher:	I:\Programação\Python\bin\javaw.exe (not found)
+Check launcher:	C:\Users\samue\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	I:\Programação\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\samue\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\ffmpeg\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "I:\Meus scrips\JAVA\metodo\morse\Morse translate.exe"
+Args length:	59/32768 chars
+Exit code:	0
