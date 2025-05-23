@@ -1,17 +1,23 @@
-# Morse code translater
+# Morse code translator
+
 ## Intro
-I made this program to training my programing skills, I'm a computer scientist studant. 
-The porposual of this program is to translate morse code made by *Samuel Morse* 
 
-## Pre - requeriments
-This app was made on Java **23.0.2** version.
-Need JDK or JRE superior version to run, follow the link bellow 
-https://www.oracle.com/java/technologies/downloads/
+I made this program to train my programming skills, I'm a computer science student.
+The purpose of this program is to translate Morse code made by *Samuel Morse*
 
-## Instruction to run
+## Pre-requirements
+
+This app was made with Java **23.0.2** version.
+You need JDK or JRE of the same or higher version to run it.
+Download it here:
+[https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)
+
+## Instructions to run
+
 ### Windows
-If you want to run on windows using the executable download the Java and add the PATH 
-Start >  gear(configuration) > System > left side scroll to about > System advance configuration > Enviroment Variable
+
+If you want to run on Windows using the executable, download Java and add it to the PATH:
+Start > gear (settings) > System > scroll down on the left to "About" > Advanced system settings > Environment Variables
 
 ![alt text](image.png)
 
@@ -21,18 +27,25 @@ EDIT >
 
 New.
 
-The usual path is C:\Program Files\Java\jdk-24\bin
+The usual path is:
+C:\Program Files\Java\jdk-24\bin
 
-or just run the MorseApp.jar
+Or just run the MorseApp.jar
 
 ### Linux and Mac OS
+
 Just run the MorseApp.jar
 
 ## To do
-There is a bug when you run. When the program opens will show a invisible frame
+
+There is a bug when you run it. When the program opens, it shows an invisible window
 
 ![alt text](image-2.png)
 
-minimaze and maximaze to fix
+Minimize and maximize to fix
 
 ![alt text](image-3.png)
+
+
+
+
